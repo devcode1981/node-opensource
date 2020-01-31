@@ -1,5 +1,7 @@
 # Node-opensource
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/devcode1981/node-opensource.svg)](https://greenkeeper.io/)
+
 Node-opensource is an API Wrapper that allows you to query the Open Source License API with Nodejs.
 
 # Example
